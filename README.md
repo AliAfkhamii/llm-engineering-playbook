@@ -1,12 +1,12 @@
-# 🧠 ZTM AI Engineering Bootcamp Journey
+# 🧠 A hands-on lab & playbook for mastering LLM systems
 
-Welcome to my public learning journey through the **Zero to Mastery: AI Engineering Bootcamp**. This repository contains my **personal notes**, **code notebooks**, **section breakdowns**, and **reflections** as I build a deep, practical understanding of modern AI Engineering, with a focus on **LLMs**, **RAG pipelines**, **vector databases**, **LangChain**, **tools like Docker & MLFlow**, and real-world deployment practices.
+Welcome to my public learning journey through  **AI Engineering**. This repository contains my **personal notes**, **code notebooks**, **section breakdowns**, and **reflections** as I build a deep, practical understanding of modern AI Engineering, with a focus on **LLMs**, **RAG pipelines**, **vector databases**, **LangChain**, **tools like Docker & MLFlow**, and real-world deployment practices.
+the base structure is followed by ZTM course
 
 ---
-
 ## 📚 What This Repo Contains
 
-Each section of the bootcamp has:
+Each section of the repo has:
 
 - 📝 **Summary Notes**: Core ideas, mental models, questions I asked, and key takeaways
 - 📓 **Jupyter Notebooks**: Hands-on implementations and annotated code
@@ -18,7 +18,7 @@ Each section of the bootcamp has:
 ## 🗂️ Repository Structure
 
 ```bash
-ZTM-AI-Engineering-Journey/
+[AI-Engineering-Journey]/
 │
 ├── Section_01_RAG_Basics/
 │   ├── summary.md
@@ -40,7 +40,7 @@ ZTM-AI-Engineering-Journey/
 ---
 ## 🚀 Learning Goals
 
--    **Master AI engineering workflows**, not just theory
+-    **Master AI engineering workflows**
 
 -    **Build full-stack LLM applications** using LangChain, OpenAI APIs, and vector stores
 
@@ -98,4 +98,4 @@ Feel free to:
 
 ## 🔖 License
 
-MIT License. Use, modify, share freely; just credit where appropriate.
+MIT License. Use, modify, share freely. just credit where appropriate.
