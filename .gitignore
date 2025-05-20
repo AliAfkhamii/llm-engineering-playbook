@@ -1,0 +1,26 @@
+
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+*.log
+
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+env_old/
+
+.ipynb_checkpoints/
+*.ipynb~  # temp saves
+*.nbconvert.ipynb
+
+.idea/
+*.iml
+
+
+index
